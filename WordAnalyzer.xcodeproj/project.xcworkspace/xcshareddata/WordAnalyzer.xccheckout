@@ -10,29 +10,29 @@
 	<string>WordAnalyzer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>29DB9D81C7C6214B75B60093DE5230634FE6BD05</key>
+		<key>F479B1B59250793A22F5998E6B46F9F2B7829895</key>
 		<string>https://github.com/zealotjin/WordAnalyzer.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>WordAnalyzer/WordAnalyzer.xcodeproj</string>
+	<string>WordAnalyzer.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>29DB9D81C7C6214B75B60093DE5230634FE6BD05</key>
-		<string>../../..</string>
+		<key>F479B1B59250793A22F5998E6B46F9F2B7829895</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/zealotjin/WordAnalyzer.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>29DB9D81C7C6214B75B60093DE5230634FE6BD05</string>
+	<string>F479B1B59250793A22F5998E6B46F9F2B7829895</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>29DB9D81C7C6214B75B60093DE5230634FE6BD05</string>
+			<string>F479B1B59250793A22F5998E6B46F9F2B7829895</string>
 			<key>IDESourceControlWCCName</key>
 			<string>WordAnalyzer</string>
 		</dict>
